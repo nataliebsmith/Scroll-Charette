@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    height:2000px;
+}
+
+.circ{
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    z-index:1;
+}
+
+#circ1{
+    margin-left:200px;
+    margin-top:300px;
+}
+
+#circ2{
+    margin-left:700px;
+    /* margin-top:300px; */
+} 

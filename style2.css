@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    color: #D6E793;
+    background-color: #222222;
+    font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+  }
+
+ .parallax{
+    /* position: fixed;
+    margin-top:0px; */
+    position:relative;
+  }
+
+ .circle {
+    /* position: relative; */
+    margin-top: 600px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: pink;
+    position:relative;
+    padding:20px 30px;
+  }
+
+  .circtext{
+    width: 50%;
+    background-color:pink;
+    color:black;
+    /* margin-bottom:10px;
+    margin-left:20px; */
+   
+    font-size:10px;
+  }
+
+  img{
+    max-width:1000px;
+    position:absolute;
+    margin-top:0px;
+    /* max-height: 1500px; */
+    z-index: -1;
+    top:-900px;
+  } 
+/* 
+  .button{
+    position:fixed;
+  } */
+

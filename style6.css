@@ -1,0 +1,13 @@
+body{
+    width:auto;
+    height:3000px;
+    font-size:15px;
+    color:white;
+}
+
+.background{
+    margin-top:1500px;
+    width:auto;
+    height:40px;
+    background-color: black;
+}
