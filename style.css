@@ -32,3 +32,8 @@ html {
   /* align-items: stretch; */
   justify-content: center; 
 }
+
+a{
+  color:white;
+  margin-left:20px;
+}

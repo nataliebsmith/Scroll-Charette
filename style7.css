@@ -1,6 +1,6 @@
 body{
     width:auto;
-    height:2600px;
+    height:1200px;
     background-color: black;
 }
 
@@ -21,23 +21,27 @@ body{
     margin-left:50px;
 }
 
-#secondcirc{
-    /* margin-top:500px; */
-    margin-left:300px;
+a{
+    color:white;
+    margin-right:20px;
 }
+ 
+ /* #secondcirc{
+    margin-left:300px;
+} */
 
-#thirdcirc{
-    /* margin-top:800px; */
+/* #thirdcirc{
     margin-left:400px;
     margin-bottom:600px;
-}
+}   */
+
 
 #firstrec{
     top:200px;
     left:50px;
 }
 
-#secondrec{
+/* #secondrec{
     margin-top:600px;
     margin-left:250px;
 }
@@ -45,4 +49,4 @@ body{
 #thirdrec{
     margin-top:900px;
     margin-left:350px;
-}
+} */

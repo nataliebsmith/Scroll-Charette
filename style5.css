@@ -28,3 +28,8 @@ h1{
 .fourth{
     background-color:green;
 }
+
+a{
+    margin-right:20px;
+    font-size:15px;
+}
